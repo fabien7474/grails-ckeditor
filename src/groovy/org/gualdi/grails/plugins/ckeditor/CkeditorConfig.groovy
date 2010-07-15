@@ -183,6 +183,7 @@ class CkeditorConfig {
 		'skin',
 		'width',
 		'baseFloatZIndex',
+                'uiColor',
 
 		// plugins/basicstyles/plugin.js
 		'coreStyles_bold',
